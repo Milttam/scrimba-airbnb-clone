@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/scrimba-airbnb-clone/static/css/main.c1ea99c8.css",
+    "main.js": "/scrimba-airbnb-clone/static/js/main.68e30714.js",
+    "index.html": "/scrimba-airbnb-clone/index.html",
+    "main.c1ea99c8.css.map": "/scrimba-airbnb-clone/static/css/main.c1ea99c8.css.map",
+    "main.68e30714.js.map": "/scrimba-airbnb-clone/static/js/main.68e30714.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1ea99c8.css",
+    "static/js/main.68e30714.js"
+  ]
+}
